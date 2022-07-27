@@ -80,12 +80,12 @@ SECRBR ══╗
                     ░      ...
 		    ╚═> 2022_08_05
 					
-### sm01: Smartmeter01 Leituras agregadas
-### pm01: Powermeter01 Leituras individuais do Refrigerador
-### pm02: Powermeter02 Leituras individuais do Televisor #1
-### pm03: Powermeter03 Leituras individuais do Chaleira
-### pm04: Powermeter04 Leituras individuais do Aspirador de pó
-### pm04: Powermeter05 Leituras individuais do Secador de cabelo
+#### sm01: Smartmeter01 Leituras agregadas
+#### pm01: Powermeter01 Leituras individuais do Refrigerador
+#### pm02: Powermeter02 Leituras individuais do Televisor #1
+#### pm03: Powermeter03 Leituras individuais do Chaleira
+#### pm04: Powermeter04 Leituras individuais do Aspirador de pó
+#### pm04: Powermeter05 Leituras individuais do Secador de cabelo
 
 
 
