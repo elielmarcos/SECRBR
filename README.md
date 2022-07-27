@@ -53,9 +53,7 @@ LINK
 
 
 ## Extrutura do conjunto de dados
-element {
-  font-size: 75;
-}
+
 <pre>
 SECRBR ══╗
          ║
