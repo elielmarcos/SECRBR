@@ -1,7 +1,7 @@
 # Sinais Elétricos de Cargas Residenciais - Brasil (SECRBR) Dataset
 
-Conjunto de dados público com registro de cargas em uma residência do Brasil para pesquisadores NILM.
-Criador por: Eliel Marcos Rocha Romancini
+Conjunto de dados público com registro de cargas em uma residência do Brasil para pesquisadores NILM.\
+Criador por: Eliel Marcos Rocha Romancini\
 Instituição: Universidade Federal de Santa Catarina - UFSC
 
 
