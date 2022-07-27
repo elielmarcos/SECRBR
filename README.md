@@ -1,7 +1,8 @@
 # Sinais Elétricos de Cargas Residenciais - Brasil (SECRBR) Dataset
 
 Conjunto de dados público com registro de cargas em uma residência do Brasil para pesquisadores NILM.
-
+Criador por: Eliel Marcos Rocha Romancini
+Instituição: Universidade Federal de Santa Catarina - UFSC
 
 
 # Informações do conjunto de dados
@@ -21,7 +22,7 @@ Para baixar os dados acesse o repositório com a senha: *GetSECRBR*
 
 Você pode baixar o conjunto de dados completo (~40 GB) usando o endereço:
 ```bash
-LINK
+https://ufscbr-my.sharepoint.com/:f:/g/personal/eliel_romancini_ufsc_br/EhlXCrPQXw5Auw3W9hOBZhQBWp1nb5hb2aTEY1xqLiJoPQ?e=gCrv2J
 ```
 
 
