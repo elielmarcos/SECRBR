@@ -54,38 +54,39 @@ LINK
 
 ## Extrutura do conjunto de dados
 
-> **SECRBR** ══╗ <br />
->          ║ <br />
->          ╠═> **pm01** ══╦═> 2022_07_05 <br />
->          ║          ░      ... <br />
->          ║          ╚═> 2022_08_05 <br />
->          ║ <br />
->          ╠═> **pm02** ══╦═> 2022_07_05 <br />
->          ║          ░      ... <br />
->          ║          ╚═> 2022_08_05 <br />
->          ║ <br />
->          ╠═> **pm03** ══╦═> 2022_07_05 <br />
->          ║          ░      ... <br />
->          ║          ╚═> 2022_08_05 <br />
->          ║ <br />
->          ╠═> **pm04** ══╦═> 2022_07_05 <br />
->          ║          ░      ... <br />
->          ║          ╚═> 2022_08_05 <br />
->          ║ <br />
->          ╠═> **pm05** ══╦═> 2022_07_06 <br />
->          ║          ░      ... <br />
->          ║          ╚═> 2022_08_05 <br />
->          ║ <br />
->          ╚═> **sm01** ══╦═> 2022_07_06 <br />
->                     ░      ... <br />
->                     ╚═> 2022_08_05 <br />
-					
-> **sm01**: Smartmeter01 Leituras agregadas <br />
-> **pm01**: Powermeter01 Leituras individuais do Refrigerador <br />
-> **pm02**: Powermeter02 Leituras individuais do Televisor #1 <br />
-> **pm03**: Powermeter03 Leituras individuais do Chaleira <br />
-> **pm04**: Powermeter04 Leituras individuais do Aspirador de pó <br />
-> **pm04**: Powermeter05 Leituras individuais do Secador de cabelo <br />
+> **SECRBR** ══╗\
+>          ║\
+>          ╠═> **pm01** ══╦═> 2022_07_05\
+>          ║          ░      ...\
+>          ║          ╚═> 2022_08_05\
+>          ║\
+>          ╠═> **pm02** ══╦═> 2022_07_05\
+>          ║          ░      ...\
+>          ║          ╚═> 2022_08_05\
+>          ║\
+>          ╠═> **pm03** ══╦═> 2022_07_05\
+>          ║          ░      ...\
+>          ║          ╚═> 2022_08_05\
+>          ║\
+>          ╠═> **pm04** ══╦═> 2022_07_05\
+>          ║          ░      ...\
+>          ║          ╚═> 2022_08_05\
+>          ║\
+>          ╠═> **pm05** ══╦═> 2022_07_06\
+>          ║          ░      ...\
+>          ║          ╚═> 2022_08_05\
+>          ║\
+>          ╚═> **sm01** ══╦═> 2022_07_06\
+>                     ░      ...\
+>                     ╚═> 2022_08_05
+>
+>			
+> **sm01**: Smartmeter01 Leituras agregadas\
+> **pm01**: Powermeter01 Leituras individuais do Refrigerador\
+> **pm02**: Powermeter02 Leituras individuais do Televisor #1\
+> **pm03**: Powermeter03 Leituras individuais do Chaleira\
+> **pm04**: Powermeter04 Leituras individuais do Aspirador de pó\
+> **pm04**: Powermeter05 Leituras individuais do Secador de cabelo\
 
 
 
