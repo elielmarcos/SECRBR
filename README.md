@@ -87,7 +87,7 @@ SECRBR ══╗
 > **pm02**: Powermeter02 Leituras individuais do Televisor #1\
 > **pm03**: Powermeter03 Leituras individuais do Chaleira\
 > **pm04**: Powermeter04 Leituras individuais do Aspirador de pó\
-> **pm04**: Powermeter05 Leituras individuais do Secador de cabelo
+> **pm05**: Powermeter05 Leituras individuais do Secador de cabelo
 
 
 
@@ -99,7 +99,7 @@ SECRBR ══╗
 
 ## Problemas conhecidos
 
-Os dados do Smartmeter estão com vários intervalos sem registro 
+Os dados do Powermeter05 estão com vários intervalos sem registro 
 (achamos que foi ocasionado por falhas de comunicação, pois era o medidor com maior distância entre o roteador)
 
 
